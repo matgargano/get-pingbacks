@@ -1,0 +1,14 @@
+
+{
+  "name": "matgargano/get-pingbacks",
+  "description": "get pingbacks",
+  "keywords": ["wordpress"],
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Mat Gargano",
+      "email": "mgargano@gmail.com"
+    }
+  ],
+  "type": "wordpress-plugin"
+}
